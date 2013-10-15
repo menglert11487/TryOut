@@ -1,0 +1,15 @@
+Id,Path,Geometry,Evaluator,Interactor,Pos.X,Pos.Y,Pos.Z,Rot.X,Rot.Y,Rot.Z,Sc.X,Sc.Y,Sc.Z,Material,Layer,Visible,Selectable
+sample01,,,,,,,,,,,,,,,,,
+sample01,o1,,,,,,,,,,,,,,,,
+sample01,o1.o1,cube.dae,,,,0,10,,,,,0,10,0,80,,,,,
+sample01,o1.o2,cube.dae,,,0,90,0,10,,,,,0,10,0,80,,,,,
+sample01,o1.o3,cube.dae,,,,0,90,,,,,,0,90,,,,,
+sample01,o1.o4,cube.dae,,,,,,,,,,0,90,,,,,
+sample01,o1.o5,cube.dae,,,0,10,0,10,,,,,0,80,0,80,0,10,,,,
+sample01,o2,,,YRotator,0,05,0,10,0,95,,,,,,,,,,self
+sample01,o2.o1,cube.dae,,,0,05,0,00,-0,05,,,,0,80,0,80,0,10,,,,
+sample01,tisch,,,,,,,,,,,,,,,,
+sample01,tisch.tischplatte,cube.dae,,,0,05,0,00,-0,05,,,,0,80,0,80,0,10,,,,
+sample01,tisch.beine,cube.dae,,,,,,,,,,,,,,,
+sample01,tisch.beine.1,cube.dae,,,,,,,,,,,,,,,
+sample01,tisch.beine.2,cube.dae,,,,,,,,,,,,,,,
